@@ -99,7 +99,7 @@ return array(
 	'log'	=>	array('text/plain', 'text/x-log'),
 	'rtx'	=>	'text/richtext',
 	'rtf'	=>	'text/rtf',
-	'xml'	=>	array('application/xml', 'text/xml', 'text/plain'),
+	'xml'	=>	array('text/xml'),
 	'xsl'	=>	array('application/xml', 'text/xsl', 'text/xml'),
 	'mpeg'	=>	'video/mpeg',
 	'mpg'	=>	'video/mpeg',
